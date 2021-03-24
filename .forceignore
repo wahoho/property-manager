@@ -11,3 +11,9 @@ package.xml
 # LWC Jest
 **/__tests__/**
 AppBrand.app
+
+**/profiles/**
+**AppSwitcher**
+force-app/main/default/applications/Task**
+force-app/main/default/layouts/Task-Task
+force-app/main/default/flexipages/Task**
